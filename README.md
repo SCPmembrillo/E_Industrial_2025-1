@@ -7,4 +7,5 @@ Documentos para la asignatura Electronica Industrial. Semestre 2025-1
 - Pedro Espínola
 - Tomás Villar
 ### Código Arduino 
-Código para el correcto funcionamiento del motor paso a paso:
+Archivo .ino para el correcto funcionamiento del motor paso a paso: [STP_M.ino](STP_M/STP_M.ino) </br>
+Archivo del diagrama del circuito: [circuit](STP_M/circuit.svg)
