@@ -3,7 +3,7 @@ const int BUTTON = 2; //pin del botón
 const int LED = 3; //pin del motor
 // VARIABLES
 int BUTTON_state_ant = LOW; //estado anterior del botón
-int pulsos = 50; // 400/8 pulsos para 6 posiciones de medición 
+int pulsos = 50; // 400/8 pulsos 
 void setup() {
   // Configuración de pines 
   pinMode(BUTTON, INPUT);
